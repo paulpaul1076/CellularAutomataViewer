@@ -221,7 +221,7 @@ public class Form extends javax.swing.JFrame {
     }
 
     private boolean checkThreeSymbolRule(long automatonNumber) {
-        final long maxNumOfThreeSymbolAutomata = 7_625_597_484_987L; // 3 ^ 27
+        final long maxNumOfThreeSymbolAutomata = 7625597484987L; // 3 ^ 27
         if (!(automatonNumber >= 0 && automatonNumber < maxNumOfThreeSymbolAutomata)) {
             return false;
         }
