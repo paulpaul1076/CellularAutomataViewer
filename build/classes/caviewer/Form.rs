@@ -1,4 +1,0 @@
-caviewer.TwoSymbolAutomaton
-caviewer.CA
-caviewer.Form
-caviewer.ThreeSymbolAutomaton
